@@ -1,0 +1,9 @@
+apache-airflow
+apache-airflow-providers-mysql[amazon]
+apache-airflow-providers-aws
+apache-airflow-providers-amazon-aws
+apache-airflow-providers-amazon-aws-transfers
+apache-airflow-providers-amazon 
+apache-airflow-providers-mysql
+apache-airflow[amazon]
+apache-airflow-providers-amazon apache-airflow-providers-mysql
