@@ -7,3 +7,6 @@ apache-airflow-providers-amazon
 apache-airflow-providers-mysql
 apache-airflow[amazon]
 apache-airflow-providers-amazon apache-airflow-providers-mysql
+apache-airflow-providers-amazon
+apache-airflow-providers-common-sql[pandas]
+pyarrow
